@@ -5,7 +5,6 @@
 }
 
 .div2 {
-    border:2px solid green;
   position: relative;
   z-index: 3;
   top: -560px;
